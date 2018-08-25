@@ -1,3 +1,10 @@
+# 퀵랩 참고
+https://qwiklabs.com/focuses/635?parent=catalog
+~~~
+cd cloud-slack-bot/start
+npm install
+~~~
+
 # Build a Slack Bot with Node.js on Kubernetes
 
 This repository contains the source code for the [Build a Slack Bot with Node.js on Kubernetes
